@@ -161,6 +161,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(30);
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Guesser";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
